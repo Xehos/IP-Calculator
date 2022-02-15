@@ -1,0 +1,16 @@
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.exe
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.deps.json
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.runtimeconfig.json
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.runtimeconfig.dev.json
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.dll
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\bin\Debug\netcoreapp3.1\IP Calculator.pdb
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.csproj.AssemblyReference.cache
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP_Calculator.IP_Calculator.resources
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.csproj.GenerateResource.cache
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.AssemblyInfoInputs.cache
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.AssemblyInfo.cs
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.csproj.CoreCompileInputs.cache
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.dll
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.pdb
+C:\Users\adahu\source\repos\IP Calculator\IP Calculator\obj\Debug\netcoreapp3.1\IP Calculator.genruntimeconfig.cache
